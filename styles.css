@@ -1,0 +1,3 @@
+a#brave-link { display:inline-flex; align-items:center; gap:8px; color:#0b57d0; text-decoration:none; font-size:16px; }
+a#brave-link img { border-radius:3px; }
+a#brave-link:focus { outline:3px solid #ffbf47; outline-offset:2px; }
